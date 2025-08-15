@@ -23,6 +23,14 @@ The app takes in **30 transaction features** and predicts whether a transaction 
 - **scikit-learn** – Machine learning model and scaling
 
 ---
+📂 Project Structure
+├── app.py               # Streamlit app entry point
+├── rf_model.pkl         # Trained Random Forest model
+├── scaler.pkl           # Scaler used for feature normalization
+├── preview.jpg          # Application preview image
+├── requirements.txt     # Dependencies
+└── README.md            # Project documentation
+---
 
 ## 📦 Requirements
 - Python **3.8+**
@@ -34,10 +42,3 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-📂 Project Structure
-├── app.py               # Streamlit app entry point
-├── rf_model.pkl         # Trained Random Forest model
-├── scaler.pkl           # Scaler used for feature normalization
-├── preview.jpg          # Application preview image
-├── requirements.txt     # Dependencies
-└── README.md            # Project documentation
