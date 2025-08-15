@@ -33,7 +33,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-📂 Project Structure
+#📂 Project Structure
 ├── app.py               # Streamlit app entry point
 ├── rf_model.pkl         # Trained Random Forest model
 ├── scaler.pkl           # Scaler used for feature normalization
