@@ -1,6 +1,6 @@
 # 💳 Credit Card Fraud Detection App
 
-![Preview](preview.jpg)
+[🔗 View Project Preview](preview.jpg)
 
 A **Streamlit-based web application** that detects fraudulent credit card transactions using a pre-trained machine learning model.  
 The app takes in **30 transaction features** and predicts whether a transaction is **fraudulent** or **legitimate**.
