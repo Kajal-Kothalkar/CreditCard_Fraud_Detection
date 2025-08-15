@@ -14,6 +14,13 @@ The app takes in **30 transaction features** and predicts whether a transaction 
 - Displays prediction probability and clear fraud/legitimate indicators.
 
 ---
+📊 Model Information
+
+Algorithm: Random Forest Classifier
+
+Training Data: Processed credit card transactions dataset.
+
+Features Used: Time, V1–V28 (PCA components), Amount.
 
 ## 🛠 Tools & Technologies
 - **Python 3.x**
